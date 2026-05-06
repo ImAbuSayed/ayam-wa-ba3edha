@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 01, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ayam-wa-ba3edha/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Get License For Ayam Wa Ba3edha](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Request Licensing for Ayam Wa Ba3edha](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
