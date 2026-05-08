@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ayam Wa Ba3edha
+
+This log tracks the cryptographic history and versioning for the song **Ayam Wa Ba3edha** (ayam-wa-ba3edha).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T01:31:21.302070 | `v1` | `ec9baeaca6b8dc8a51ead01c8f38c09a0ed1ca33143d5af1dd014d769754f572` | `4e8a03321cce51cf053e00a1d8b61b481eda318c80c55267b0c554b338670c27` | `2026-05-09_ayam-wa-ba3edha-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
